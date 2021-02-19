@@ -12,7 +12,6 @@ Olá meu nome é Vinicius de Oliveira, atualmente participo do projeto Entra21 o
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Vinicius_Oliveira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/vinicius-oliveira-2273821a0/)](https://www.linkedin.com/in/vinicius-oliveira-2273821a0/)
-[![Instagram Badge](https://img.shields.io/badge/-kanna6501-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/kanna6501/)](https://instagram.com/kanna6501)
 [![Gmail Badge](https://img.shields.io/badge/-vinicius.oliveira7787@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vinicius.oliveira7787@gmail.com)](mailto:vinicius.oliveira7787@gmail.com)
 
 ## ⚡ Technologies

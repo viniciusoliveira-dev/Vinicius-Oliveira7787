@@ -8,7 +8,7 @@ Here are some ideas to get you started:
     https://github.com/MarckRDA/Backend-AcheBarato
 
 
-Olá meu nome é Vinicius de Oliveira, atualmente participo do projeto Entra21 oned estou cursando a disciplina C# para back-end developers.
+Olá meu nome é Vinicius de Oliveira, atualmente participo do projeto Entra21 onde estou cursando C# para back-end developers.
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Vinicius_Oliveira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/vinicius-oliveira-2273821a0/)](https://www.linkedin.com/in/vinicius-oliveira-2273821a0/)

@@ -1,16 +1,6 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on AcheBarato Site
-  https://github.com/MarckRDA/Frontend-AcheBarato
-    https://github.com/MarckRDA/Backend-AcheBarato
-
-
-Olá meu nome é Vinicius de Oliveira, atualmente participo do projeto Entra21 onde estou cursando C# para back-end developers.
-
-
-[![Linkedin Badge](https://img.shields.io/badge/-Vinicius_Oliveira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/vinicius-oliveira-2273821a0/)](https://www.linkedin.com/in/vinicius-oliveira-2273821a0/)
+[![Linkedin Badge](https://img.shields.io/badge/-Vinicius_Oliveira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/vinicius-oliveira-2273821a0/)](https://www.linkedin.com/in/vinicius-de-oliveira-2273821a0/)
 [![Gmail Badge](https://img.shields.io/badge/-vinicius.oliveira7787@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vinicius.oliveira7787@gmail.com)](mailto:vinicius.oliveira7787@gmail.com)
 
 ## ⚡ Technologies
@@ -29,6 +19,5 @@ Olá meu nome é Vinicius de Oliveira, atualmente participo do projeto Entra21 o
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=vinicius-oliveira7787&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius-oliveira7787&hide=TeX&layout=compact)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=vinicius-oliveira7787.vinicius-oliveira7787)
